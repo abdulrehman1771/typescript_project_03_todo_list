@@ -1,6 +1,6 @@
 {
   "name": "project_03_todo_list_by_abdulrehman",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "main.js",
   "type": "module",
@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/inquirer": "^9.0.7",
     "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
   }
 }
