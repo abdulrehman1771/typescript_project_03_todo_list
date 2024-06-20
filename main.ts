@@ -1,5 +1,8 @@
 #! /usr/bin/env node
 
+// #Project Statement
+// ###Develop a simple command line Todo app using TypeScipt, Node.js and Inquirer.
+
 import inquirer from "inquirer";
 
 let lst: string[] = [];
